@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Testing commit stuff"
-excerpt: "About me"
+excerpt: "This is a test"
 author_profile: true
 redirect_from: 
   - /about/
