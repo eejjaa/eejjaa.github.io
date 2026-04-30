@@ -25,5 +25,4 @@ I currently lead conservation social science at The Peregrine Fund, working acro
 
 ## Storytelling
 
-I came to science through journalism and have never fully left. I am drawn to projects that combine rigorous inquiry with lengthy immersion, such as the [Megatransect](https://en.wikipedia.org/wiki/MegaTransect), [The Roadless Project](https://nelsonguda.com/project/roadless/), and the [Out of Eden walk](https://outofedenwalknonprofit.org/our-story/). I am working on longer-form writing that brings that same sensibility to the places and problems I study.
-
+I came to science through journalism and have never fully left. I am drawn to projects that combine rigorous inquiry with lengthy immersion, such as the [Megatransect](https://en.wikipedia.org/wiki/MegaTransect), [The Roadless Project](https://nelsonguda.com/project/roadless/), and the [Out of Eden walk](https://outofedenwalknonprofit.org/our-story/). Stay tuned for updates soon!
